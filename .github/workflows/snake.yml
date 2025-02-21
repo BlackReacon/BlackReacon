@@ -4,8 +4,7 @@ on:
   # Schedule the workflow to run daily at midnight UTC
 
   schedule:
-    
-cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
   # Allow manual triggering of the workflow
 
@@ -15,8 +14,7 @@ cron: "0 0 * * *"
 
   push:
     branches:
-      
-main
+      - main
 
 jobs:
   generate:
@@ -27,15 +25,13 @@ jobs:
     steps:
       # Step 1: Checkout the repository
 
-      
-name: Checkout Repository
+      - name: Checkout Repository
 
         uses: actions/checkout@v3
 
       # Step 2: Generate the snake animations
 
-      
-name: Generate GitHub Contributions Snake Animations
+      - name: Generate GitHub Contributions Snake Animations
 
         uses: Platane/snk@v3
 
@@ -55,8 +51,7 @@ name: Generate GitHub Contributions Snake Animations
 
       # Step 3: Deploy the generated files to the 'output' branch
 
-      
-name: Deploy to Output Branch
+      - name: Deploy to Output Branch
 
         uses: peaceiris/actions-gh-pages@v3
 
