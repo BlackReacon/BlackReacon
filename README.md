@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40" alt="waveicon"> I'm BlackReacon!</h1>
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40" alt="waveicon"> I'm Daria Schmidt!</h1>
 
 <p align="left">
 Hi! I’m a dedicated full-stack developer with a passion for creating robust, efficient, and user-friendly applications. With experience in both frontend and backend technologies, I strive to deliver seamless digital solutions that combine functionality and design.
