@@ -11,6 +11,7 @@ In addition to my work as a developer, I also serve as a lecturer at DBE-Academy
 <details>
 <summary>Skills & Tools :bulb:</summary>
 <br>
+<h3 align="center">Languages & Frameworks :computer:</h3>
 <table border="0", align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" height="32" /></td>
@@ -29,7 +30,7 @@ In addition to my work as a developer, I also serve as a lecturer at DBE-Academy
 </table>
 </details>
 
-<h3 align="center">Languages & Frameworks :computer:</h3>
+
 
 
 
