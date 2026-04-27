@@ -27,6 +27,8 @@ In addition to my work as a developer, I also serve as a lecturer at DBE-Academy
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" width="32" height="32" /></td>
   </tr>
 </table>
+</details>
+
 <h3 align="center">Languages & Frameworks :computer:</h3>
 
 
