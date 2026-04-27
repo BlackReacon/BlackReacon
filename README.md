@@ -10,7 +10,7 @@ In addition to my work as a developer, I also serve as a lecturer at DBE-Academy
 
 <summary>Skills & Tools :bulb:</summary>
 <h3 align="center">Languages & Frameworks :computer:</h3>
-<p align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -23,7 +23,7 @@ In addition to my work as a developer, I also serve as a lecturer at DBE-Academy
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <!-- Docker -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> <!-- Git -->
-</p>
+</div>
 
 
 <h3 align="center">Contribution Snake</h3>
